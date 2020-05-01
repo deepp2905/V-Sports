@@ -13,7 +13,7 @@ The P.E Teacher has an admin login where he can  : <br />
 - Reset the password of a student  <br />
 - Reset their own password<br />
 <br />
-How to run this on your pc ?
+ How to run this on your pc?<br />
 <br />
 1.)Save all the project files on desktop in a folder named 'oopm' and then run it on the terminal.<br />
 OR<br />
